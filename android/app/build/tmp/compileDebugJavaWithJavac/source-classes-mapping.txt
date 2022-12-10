@@ -1,0 +1,15 @@
+com/listar/MainApplication.java
+ com.listar.MainApplication
+ com.listar.MainApplication$1
+com/listar/ReactNativeFlipper.java
+ com.listar.ReactNativeFlipper
+ com.listar.ReactNativeFlipper$1
+ com.listar.ReactNativeFlipper$2
+ com.listar.ReactNativeFlipper$2$1
+com/listar/MainActivity.java
+ com.listar.MainActivity
+ com.listar.MainActivity$1
+com/listar/BuildConfig.java
+ com.listar.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
